@@ -1,0 +1,8 @@
+
+{
+  "name": "CNIC Sync",
+  "description": "Un système performant de gestion de courrier physique entrant et sortant, avec scan par IA, synchronisation mobile et suivi en temps réel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
